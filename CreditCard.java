@@ -1,12 +1,4 @@
 package CourseWork;
-
-
-/**
- * Write a description of class CreditCard here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class CreditCard extends BankCard
 {
     private int cvc;
